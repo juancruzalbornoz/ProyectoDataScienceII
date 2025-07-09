@@ -1,8 +1,4 @@
 # Análisis de Peligro Esperado (xT): Final de la Copa del Mundo 2022 - Argentina vs. Francia
-
-![Banner Final Mundial](https://img.olympicchannel.com/images/image/private/t_16-9_1240-700/f_auto/primary/qjgr3dpeydk5f5bxy5c2)
-*Imagen: FIFA*
-
 ---
 
 ## 🚀 Descripción del Proyecto
@@ -19,9 +15,9 @@ Para ello, se implementa un análisis multifacético que combina tres métricas 
 
 El proyecto está diseñado de manera didáctica, explicando cada paso del proceso, desde la obtención de los datos hasta la visualización final de los resultados.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DE_TU_NOTEBOOK_AQUI)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1zFLRUk1fKW0DgRXA_iSeRygKbOCJQheE#scrollTo=1U-VkPitNt8P))]
 <br>
-**[Haz clic aquí para abrir el análisis en Google Colab](URL_DE_TU_NOTEBOOK_AQUI)**
+**[Haz clic aquí para abrir el análisis en Google Colab](https://colab.research.google.com/drive/1zFLRUk1fKW0DgRXA_iSeRygKbOCJQheE#scrollTo=1U-VkPitNt8P)**
 
 ---
 
