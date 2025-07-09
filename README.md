@@ -1,5 +1,7 @@
 # Análisis de Peligro Esperado (xT): Final de la Copa del Mundo 2022 - Argentina vs. Francia
 
+---
+
 ## 🚀 Descripción del Proyecto
 
 Este repositorio contiene un análisis detallado en formato Jupyter Notebook (Google Colab) de la final de la Copa del Mundo de la FIFA 2022 entre Argentina y Francia. El objetivo principal es cuantificar el "peligro" generado por cada equipo y sus jugadores utilizando métricas avanzadas de análisis de fútbol para responder a la hipótesis:
