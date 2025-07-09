@@ -1,5 +1,5 @@
 # Análisis de Peligro Esperado (xT): Final de la Copa del Mundo 2022 - Argentina vs. Francia
-(https://img.olympicchannel.com/images/image/private/t_16-9_1240-700/f_auto/primary/qjgr3dpeydk5f5bxy5c2)
+https://img.olympicchannel.com/images/image/private/t_16-9_1240-700/f_auto/primary/qjgr3dpeydk5f5bxy5c2
 *Imagen: FIFA*
 ---
 
