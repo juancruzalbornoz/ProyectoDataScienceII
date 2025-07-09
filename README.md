@@ -51,7 +51,7 @@ El notebook está dividido en pasos lógicos y secuenciales para facilitar su co
 
 Los resultados del análisis respaldan la hipótesis. Aunque Francia fue extremadamente eficaz en la finalización (alto xG), **Argentina generó un mayor "Peligro Total" (6.83 vs 6.02)** al dominar en las métricas de progresión y creación de juego (xT y xA).
 
-![Gráfico de Peligro por Equipo](URL_DE_TU_GRAFICO_FINAL.png)
+![Gráfico de Peligro por Equipo](Peligro_por_equipo.png)
 *(Opcional: puedes guardar el gráfico final que generaste y subirlo a tu repositorio para enlazarlo aquí)*
 
 El análisis revela que, más allá del resultado final, el rendimiento ofensivo de Argentina fue más completo y sostenido a lo largo del partido.
