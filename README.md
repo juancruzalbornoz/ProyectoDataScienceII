@@ -14,7 +14,7 @@ Para ello, se implementa un análisis multifacético que combina tres métricas 
 
 El proyecto está diseñado de manera didáctica, explicando cada paso del proceso, desde la obtención de los datos hasta la visualización final de los resultados.
 
-**[Haz clic aquí para abrir el análisis en Google Colab](https://colab.research.google.com/drive/1zFLRUk1fKW0DgRXA_iSeRygKbOCJQheE#scrollTo=1U-VkPitNt8P)**
+**[Haz clic aquí para abrir el análisis](Proyecto_DSII_PreEntrega_JuanCruzAlbornoz.ipynb)**
 
 ---
 
