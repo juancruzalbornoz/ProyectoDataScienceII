@@ -1,4 +1,5 @@
 # Análisis de Peligro Esperado (xT): Final de la Copa del Mundo 2022 - Argentina vs. Francia
+![Portada](Imagenes/18-december-2022-qatar-lusail-soccer-world-cup-AOYMO3YVUVBB5HWGU2ZTWTXURM.jpg)
 
 ## 🚀 Descripción del Proyecto
 
@@ -50,7 +51,7 @@ El notebook está dividido en pasos lógicos y secuenciales para facilitar su co
 
 Los resultados del análisis respaldan la hipótesis. Aunque Francia fue extremadamente eficaz en la finalización (alto xG), **Argentina generó un mayor "Peligro Total" (6.83 vs 6.02)** al dominar en las métricas de progresión y creación de juego (xT y xA).
 
-![Gráfico de Peligro por Equipo](Peligro_por_equipo.png)
+![Gráfico de Peligro por Equipo](Imagenes/Peligro_por_equipo.png)
 
 El análisis revela que, más allá del resultado final, el rendimiento ofensivo de Argentina fue más completo y sostenido a lo largo del partido.
 
