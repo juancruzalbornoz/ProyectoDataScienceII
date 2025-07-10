@@ -41,9 +41,8 @@ El notebook está dividido en pasos lógicos y secuenciales para facilitar su co
 3.  **Análisis Exploratorio de Datos (EDA):** Un paso crucial para inspeccionar la estructura, calidad y contenido de los datos crudos.
 4.  **Definición del Modelo xT:** Implementación de un grid de Peligro Esperado estándar para garantizar la reproducibilidad.
 5.  **Cálculo de Métricas por Acción:** Procesamiento de los datos para calcular el `xt_added`, `xG` y `xA` de cada evento relevante.
-6.  **Análisis por Jugador:** Agrupación de las métricas para identificar a los jugadores más influyentes en progresión (xT), finalización (xG) y creación (xA).
-7.  **Análisis por Equipo y Conclusión:** Síntesis de todas las métricas a nivel de equipo para responder a la hipótesis central del proyecto.
-8.  **Visualización de Resultados:** Creación de gráficos de barras claros y con un diseño cuidado para comunicar los hallazgos de forma efectiva.
+6.  **Análisis por Jugador y por Equipo:** Agrupación de las métricas para identificar a los jugadores más influyentes en progresión (xT), finalización (xG) y creación (xA) y Síntesis de todas las métricas a nivel de equipo para responder a la hipótesis central del proyecto.
+7.  **Visualización de Resultados:** Creación de gráficos de barras claros y con un diseño cuidado para comunicar los hallazgos de forma efectiva.
 
 ---
 
