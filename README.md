@@ -1,4 +1,4 @@
-# Análisis de Peligro Esperado: Final del Mundial 2022 - Argentina vs. Francia
+# Análisis de Peligro: Final del Mundial 2022 - Argentina vs. Francia
 ![Portada](Imagenes/18-december-2022-qatar-lusail-soccer-world-cup-AOYMO3YVUVBB5HWGU2ZTWTXURM.jpg)
 
 ## 🚀 Descripción del Proyecto
