@@ -1,5 +1,4 @@
 # Análisis de Peligro: Argentina vs. Francia - Qatar 2022
-![Portada](Imagenes/18-december-2022-qatar-lusail-soccer-world-cup-AOYMO3YVUVBB5HWGU2ZTWTXURM.jpg)
 
 ## 🚀 Descripción del Proyecto
 
@@ -37,21 +36,20 @@ Este análisis se basa en el ecosistema de Python para la ciencia de datos. Las 
 
 El notebook está dividido en pasos lógicos y secuenciales para facilitar su comprensión:
 
-1.  **Configuración del Entorno:** Instalación de las librerías necesarias.
-2.  **Obtención de Datos:** Conexión a la API de StatsBomb para descargar todos los eventos de la final.
-3.  **Análisis Exploratorio de Datos (EDA):** Un paso crucial para inspeccionar la estructura, calidad y contenido de los datos crudos.
-4.  **Definición del Modelo xT:** Implementación de un grid de Peligro Esperado estándar para garantizar la reproducibilidad.
-5.  **Cálculo de Métricas por Acción:** Procesamiento de los datos para calcular el `xt_added`, `xG` y `xA` de cada evento relevante.
-6.  **Análisis por Jugador y por Equipo:** Agrupación de las métricas para identificar a los jugadores más influyentes en progresión (xT), finalización (xG) y creación (xA) y Síntesis de todas las métricas a nivel de equipo para responder a la hipótesis central del proyecto.
-7.  **Visualización de Resultados:** Creación de gráficos de barras claros y con un diseño cuidado para comunicar los hallazgos de forma efectiva.
+0.  **Configuración del Entorno:** Conexión con la API.
+1.  **Importación de Librerías:** Instalación de las librerías necesarias.
+2.  **Obtención de Datos y EDA:** Conexión a la API de StatsBomb para descargar todos los eventos de la final. Y un paso crucial para inspeccionar la estructura, calidad y contenido de los datos crudos.
+3.  **Definición y Verificación del Modelo de xT:** Implementación de un grid de Peligro Esperado estándar para garantizar la reproducibilidad.
+4.  **Cálculo del Peligro de Progresión (xT):** Procesamiento de los datos para calcular el `xt_added` de cada evento relevante.
+5.  **Cálculo del Peligro de Finalización y Creación (xG y xA):** Procesamiento de los datos para calcular el `xG` y `xA` de cada evento relevante
+.  **Síntesis y Análisis:** Agrupación de las métricas para identificar a los jugadores más influyentes en progresión (xT), finalización (xG) y creación (xA) y Síntesis de todas las métricas a nivel de equipo para responder a la hipótesis central del proyecto.
+7.  **Conclusión y Respuesta a la Hipótesis:** Creación de gráficos de barras claros y con un diseño cuidado para comunicar los hallazgos de forma efectiva.
 
 ---
 
 ## 📈 Conclusión Principal del Análisis
 
-Los resultados del análisis respaldan la hipótesis. Aunque Francia fue extremadamente eficaz en la finalización (alto xG), **Argentina generó un mayor "Peligro Total" (6.83 vs 6.02)** al dominar en las métricas de progresión y creación de juego (xT y xA).
-
-![Gráfico de Peligro por Equipo](Imagenes/Peligro_por_equipo.png)
+Los resultados del análisis respaldan la hipótesis. Aunque Francia fue extremadamente eficaz en la finalización y progresión (alto xG y xT), **Argentina generó un mayor "Peligro Total" (6.83 vs 6.02)** al dominar en el total de las métricas.
 
 El análisis revela que, más allá del resultado final, el rendimiento ofensivo de Argentina fue más completo y sostenido a lo largo del partido.
 
